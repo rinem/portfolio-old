@@ -99,9 +99,8 @@ header {
 	opacity: 0;
 	animation: 1s fadein 0.5s forwards;
 	position: absolute;
-	width: 100%;
-	color: #fff; 
-
+	width: 100%; 
+	z-index: 1;
 }
 
 
