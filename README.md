@@ -1,3 +1,3 @@
-// testing git... :)
-# portfolio
-Portfolio page having details about my skills and projects.
+# Portfolio
+
+Portfolio page having details about my skills and projects in Web Development.
